@@ -1,3 +1,6 @@
 [submodule "lab03/xv6-labs-2023"]
 	path = lab03/xv6-labs-2023
 	url = git://g.csail.mit.edu/xv6-labs-2023
+[submodule "lab02/xv6-labs-2024"]
+	path = lab02/xv6-labs-2024
+	url = git://g.csail.mit.edu/xv6-labs-2024
